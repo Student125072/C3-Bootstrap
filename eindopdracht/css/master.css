@@ -1,0 +1,72 @@
+body
+{
+  color: #9a9a9a;
+  font-family: Montserrat, sans-serif;
+  line-height: 1.8;
+}
+
+@font-face {
+  font-family: Helvetica Black;
+  src: url("Helvetica-Black.otf");
+}
+
+h1
+{
+  color: black;
+}
+
+h2
+{
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.active
+{
+  border-bottom: 1px solid black;
+}
+
+.listicon
+{
+  color: black;
+}
+
+.logo
+{
+  color: black;
+  font-size: 40px;
+  padding-top: 5px;
+}
+
+.navbar
+{
+  border-radius: 0;
+  border: 0;
+  margin-bottom: 0;
+  font-size: 14px !important;
+  line-height: 1.42857143 !important;
+  letter-spacing: 3px;
+}
+
+.navbar li a
+{
+  color: black !important;
+  margin-left: 50px;
+}
+
+.navbar-default .navbar-toggle
+{
+  border-color: transparent;
+  color: #fff !important;
+}
+
+.jumbotron
+{
+  height: 30vh;
+}
+
+.jumbotron h1
+{
+  font-family: Helvetica Black;
+  color: black;
+}
