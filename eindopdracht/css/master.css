@@ -98,3 +98,8 @@ h4
   border-color: transparent;
   color: #fff !important;
 }
+
+form
+{
+  color: black;
+}

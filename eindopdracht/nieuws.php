@@ -23,7 +23,7 @@
             <li><a href="index.php">HOME</a></li>
             <li><a href="nieuws.php" class="active">NIEUWS</a></li>
             <li><a href="#">BRONNEN</a></li>
-            <li><a href="#">NIEUWSBRIEF</a></li>
+            <li><a href="nieuwsbrief.php">NIEUWSBRIEF</a></li>
           </ul>
         </div>
       </div>

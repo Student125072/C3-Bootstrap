@@ -27,6 +27,12 @@
       </div>
     </nav>
 
+    <div class="jumbotron text-center">
+      <div class="container">
+        <h2>inschrijven voor de nieuwsbrief</h2>
+      </div>
+    </div>
+
 
   </body>
 </html>
