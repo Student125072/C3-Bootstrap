@@ -1,0 +1,15 @@
+.jumbotron
+{
+  background-color: white;
+}
+
+.subj
+{
+  margin-left: 10%;
+}
+
+.subj-img img
+{
+  height:auto;
+  width: 500px;
+}

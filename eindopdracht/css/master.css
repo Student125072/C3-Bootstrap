@@ -1,13 +1,34 @@
 body
 {
   color: #9a9a9a;
-  font-family: Montserrat, sans-serif;
+  font-family: Helvetica Black;
   line-height: 1.8;
+}
+
+.btn
+{
+  background-color: #2b2b2b;
 }
 
 @font-face {
   font-family: Helvetica Black;
   src: url("Helvetica-Black.otf");
+}
+
+@font-face {
+  font-family: Betm;
+  src: url("Betm.otf");
+}
+
+.jumbotron
+{
+  background-color: white;
+}
+
+.jumbotron p
+{
+  font-family: Helvetica Black;
+  font-size: 15px;
 }
 
 h1
@@ -18,12 +39,20 @@ h1
 h2
 {
   font-weight: 600;
-  text-transform: capitalize;
+  color: black;
+  font-family: Betm;
+  text-transform: uppercase;
+}
+
+h4
+{
+  color: black;
+  font-family: Betm;
 }
 
 .active
 {
-  border-bottom: 1px solid black;
+  border-bottom: 2px solid black;
 }
 
 .listicon
@@ -45,28 +74,27 @@ h2
   margin-bottom: 0;
   font-size: 14px !important;
   line-height: 1.42857143 !important;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
+  font-family: Betm;
+}
+
+.navbar li a:hover
+{
+  transition: border-bottom 0.3s;
+  color: black !important;
+  border-bottom: 2px solid black;
+
 }
 
 .navbar li a
 {
-  color: black !important;
+  color: #5d5d5d !important;
   margin-left: 50px;
+  padding-bottom: 10px;
 }
 
 .navbar-default .navbar-toggle
 {
   border-color: transparent;
   color: #fff !important;
-}
-
-.jumbotron
-{
-  height: 30vh;
-}
-
-.jumbotron h1
-{
-  font-family: Helvetica Black;
-  color: black;
 }
