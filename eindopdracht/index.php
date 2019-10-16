@@ -11,7 +11,7 @@
   <body>
 
     <!-- Navbar -->
-    <nav class="nav navbar navbar-default navbar-fixed-top">
+    <nav class="nav navbar navbar-default">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -35,10 +35,6 @@
         <h2>over nieuwscollectie.nl</h2>
         <button type="button" class="btn btn-primary">Klik hier om een opmerking te plaatsen <span class="glyphicon glyphicon-arrow-right"></span></button>
       </div>
-    </div>
-
-    <div class="container-fluid">
-
     </div>
 
   </body>
