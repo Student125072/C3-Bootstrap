@@ -3,6 +3,7 @@ body
   color: #9a9a9a;
   font-family: Helvetica Black;
   line-height: 1.8;
+  padding-top: 50px;
 }
 
 @font-face {
@@ -58,8 +59,21 @@ h2
 {
   font-weight: 600;
   color: black;
-  font-family: Betm;
+  font-family: Helvetica;
   text-transform: uppercase;
+}
+
+h3
+{
+  color: black;
+  font-size: 15px;
+}
+
+p
+{
+  font-weight: 200;
+  color: #323232;
+  font-family: Arial;
 }
 
 h4
@@ -108,7 +122,6 @@ h4
   transition: border-bottom 0.3s;
   color: black !important;
   border-bottom: 2px solid black;
-
 }
 
 .navbar li a

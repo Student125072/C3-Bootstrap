@@ -11,7 +11,7 @@
   <body>
 
     <!-- Navbar -->
-    <nav class="nav navbar navbar-default">
+    <nav class="nav navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -79,8 +79,44 @@
 
     </div> <!-- container -->
 
+    <h1 class="text-center headline-text">HEADLINERS</h1>
+
     <div class="container-fluid">
+      <div class="page-content">
+        <div class="well well-md">
+          <div class="row">
+            <div class="col-sm-6 headline">
+              <h2>Gezin Ruinerwold volgelingen van Moonsekte</h2>
+              <h3>Het gezin dat jaren geïsoleerd zat in Ruinerwold, zou zijn aangesloten bij de Moonsekte, ook wel moonies genoemd. Ook de Oostenrijker Josef B., die het gezin vasthield, was lid van deze sekte. Het gezin en Josef B. kennen elkaar daar ook van.
+                Dat zeggen bronnen tegen RTV Drenthe. </h3>
+                <p>De familie zou al vanaf de tijd dat ze in Hasselt wonen bij de Verenigingskerk horen, zoals de religieuze beweging internationaal heet.
+                  Leider was de Zuid-Koreaanse dominee Sun Myung Moon. Hij riep zich in de vijftiger jaren uit tot messias. In 1965 is de beweging naar Nederland gebracht. Leden van de Verenigingskerk zijn heel erg naar binnen gericht, op de eigen familie.
+                  Sekteleider Moon, die zeer vermogend was, overleed in 2012.</p>
+                  <p>Moonies zitten verspreid over de hele wereld. Volgelingen leven van donaties. Ook het gezin, dat negen jaar geïsoleerd leefde in de afgelegen boerderij in Ruinerwold, zou op die manier geld hebben gekregen. De vader van het gezin zou altijd veel goed werk hebben verricht voor de sekte. Nadat hij drie jaar geleden door een herseninfarct werd getroffen, waardoor hij deels verlamd raakte, bleef het gezin om deze reden ook geld ontvangen. In de boerderij is ook een grote hoeveelheid cash geld gevonden.</p>
+                </div> <!-- col -->
+                <div class="col-sm-6 headline">
+                  <img src="img/ruinersworld.jpg">
+                </div> <!-- col -->
+              </div> <!-- row -->
+        </div> <!-- well -->
+        <div class="well well-md">
+          <div class="row">
+            <div class="col-sm-6 headline">
+              <h2>EU bereikt deal over Brexit met Londen</h2>
+              <h3>BRUSSEL - EU-onderhandelaars en het Verenigd Koninkrijk hebben een nieuwe Brexit-deal gesloten.
+                Vanmiddag buigen de leiders van 27 EU-landen zich over het pakket afspraken.</h3>
+                <p>„Waar een wil is, is een deal”, twitterde president van de Europese Commissie Juncker even voor twaalf uur vanmiddag. Het akkoord moet voorkomen dat het VK op 31 oktober uit de Unie crasht. Een no deal-Brexit, zonder afspraken dus, zou grote economische en maatschappelijke gevolgen hebben omdat het VK dan van het ene op het andere moment een zogeheten derde land zou worden en uit de EU crasht.
+                  Premier Mark Rutte noemt het behalen van een principeakkoord over de brexit „heel bemoedigend nieuws. We gaan nu naar de tekst kijken.” Hij zei dat in Brussel voorafgaand aan een EU-top.</p>
+                </div>
+                <div class="col-sm-6 headline">
+                  <img src="img/brexit.jpg">
+                </div>
+              </div> <!-- row -->
+        </div>
+      </div> <!-- content -->
     </div>
+
+
 
   </body>
 </html>

@@ -34,3 +34,32 @@
 {
   filter: brightness(60%);
 }
+
+.headline-text
+{
+  margin-top: 4%;
+  letter-spacing: 5px;
+  color: black;
+}
+
+.headline-text:hover
+{
+  transition: color 1.5s;
+  color: #c72501;
+}
+
+.headline h2, h3, p
+{
+  margin-left: 10%;
+}
+
+.headline img
+{
+  height: auto;
+  width: 90%;
+}
+
+.page-content
+{
+  margin-top: 3%;
+}

@@ -10,7 +10,7 @@
   <body>
 
     <!-- Navbar -->
-    <nav class="nav navbar navbar-default">
+    <nav class="nav navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -39,7 +39,7 @@
 
     <div id="subjects" class="container-fluid text-center">
       <div class="row">
-        <div class="col-sm-4">
+        <div class="col-sm-4 global">
           <button class="navbtn">
             <div class="content">
               <span class="glyphicon glyphicon-globe logo-small"></span>
@@ -57,7 +57,7 @@
             </div>
           </button>
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-4 weather">
           <button class="navbtn">
             <div class="content">
               <span class="glyphicon glyphicon-cloud logo-small"></span>
