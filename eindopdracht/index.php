@@ -41,24 +41,24 @@
         </ol>
 
         <!-- Wrappers -->
-        <div class="carousel-inner" style="height: 50vh;">
+        <div class="carousel-inner" style="height: 60vh;">
 
           <div class="item active">
-            <img src="img/carousel1.jpg" alt="First slide" style="width:100%; height: 50vh;">
+            <img src="img/carousel1.jpg" alt="First slide" style="width:100%; height: 60vh;">
             <div class="carousel-caption">
               <h5>Boerenprotest op weg naar Den Haag</h5>
             </div>
           </div>
 
           <div class="item">
-            <img src="img/carousel2.jpg" alt="Second slide" style="width:100%; height: 50vh;">
+            <img src="img/carousel2.jpg" alt="Second slide" style="width:100%; height: 60vh;">
             <div class="carousel-caption">
               <h5>Kabinet wil telefoonnummer 113 beschikbaar maken voor zelfdodingspreventie</h5>
             </div>
           </div>
 
           <div class="item">
-            <img src="img/carousel3.jpg" alt="Second slide" style="width:100%; height: 50vh;">
+            <img src="img/carousel3.jpg" alt="Second slide" style="width:100%; height: 60vh;">
             <div class="carousel-caption">
               <h5>Rutte noemt irritatie over bemoeienis onderwijs-cao ‘terecht’</h5>
             </div>
