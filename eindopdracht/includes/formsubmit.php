@@ -10,9 +10,9 @@
   $alert = "alert-danger";
   $msg;
 
-  if (isset($_POST['submit'])) {
+  if (isset($_POST['jaSubmit'])) {
 
-    if ($naam == "" || $adres == "" || $postcode == "") {
+    if (empty($naam) || empty($adres) || empty($postcode)) {
       $class = "is-visible";
       $msg = "Alle velden dienen te worden ingevuld";
     } else {

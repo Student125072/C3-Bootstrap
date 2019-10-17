@@ -50,7 +50,7 @@
         <form class="form" method="post" id="formfield">
           <div class="form-group">
             <label for="naam">Naam</label>
-            <input type="text" name="naam" class="form-control" placeholder="Voor- en achternaam">
+            <input type="text" name="naam"  class="form-control" placeholder="Voor- en achternaam">
           </div>
           <div class="form-group">
             <label for="adres">Adres</label>
@@ -61,7 +61,8 @@
             <input type="text" name="postcode" class="form-control" placeholder="1234 AB">
             <small id="postcodeHelp" class="form-text text-muted">Wij delen uw informatie niet met anderen.</small>
           </div>
-          <button type="button" id="submitBtn" name="submit" class="btn btn-primary" data-toggle="modal" data-target="#confirmSubmit">Inschrijven</button>
+          <button type="button" id="submitBtn" name="confirmSubmit" class="btn btn-primary" data-toggle="modal" data-target="#confirmSubmit">Inschrijven</button>
+          <button type="submit" id="jaSubmit" name="jaSubmit" class="btn btn-primary hidden">Ja</button>
         </form>
       </div>
     </div>
@@ -80,7 +81,7 @@
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Nee</button>
-            <button type="submit" class="btn btn-primary" id="submit">Ja</button>
+            <button class="btn btn-primary"><label for="jaSubmit">Ja</label></button>
           </div>
         </div>
       </div>
