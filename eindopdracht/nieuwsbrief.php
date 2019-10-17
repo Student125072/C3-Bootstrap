@@ -24,6 +24,7 @@
             <li><a href="nieuws.php">NIEUWS</a></li>
             <li><a href="#">BRONNEN</a></li>
             <li><a href="nieuwsbrief.php" class="active">NIEUWSBRIEF</a></li>
+            <li><a href="opmerkingen.php">OPMERKINGEN</a></li>
           </ul>
         </div>
       </div>
