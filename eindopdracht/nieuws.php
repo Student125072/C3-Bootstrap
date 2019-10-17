@@ -40,25 +40,31 @@
     <div id="subjects" class="container-fluid text-center">
       <div class="row">
         <div class="col-sm-4">
-          <div class="content">
-            <span class="glyphicon glyphicon-globe logo-small"></span>
-            <h4>GLOBAAL</h4>
-            <p>Nieuws van over de hele wereld</p>
-          </div>
+          <button class="navbtn">
+            <div class="content">
+              <span class="glyphicon glyphicon-globe logo-small"></span>
+              <h4>GLOBAAL</h4>
+              <p>Nieuws van over de hele wereld</p>
+            </div>
+          </button>
         </div>
         <div class="col-sm-4">
-          <div class="content">
-            <span class="glyphicon glyphicon-screenshot logo-small"></span>
-            <h4>REGIONAAL</h4>
-            <p>Nieuws per regio</p>
-          </div>
+          <button class="navbtn">
+            <div class="content">
+              <span class="glyphicon glyphicon-screenshot logo-small"></span>
+              <h4>REGIONAAL</h4>
+              <p>Nieuws per regio</p>
+            </div>
+          </button>
         </div>
         <div class="col-sm-4">
-          <div class="content">
-            <span class="glyphicon glyphicon-cloud logo-small"></span>
-            <h4>WEER</h4>
-            <p>Het weer</p>
-          </div>
+          <button class="navbtn">
+            <div class="content">
+              <span class="glyphicon glyphicon-cloud logo-small"></span>
+              <h4>WEER</h4>
+              <p>Het weer</p>
+            </div>
+          </button>
         </div>
       </div>
     </div>

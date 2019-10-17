@@ -2,6 +2,24 @@
 {
   color: black;
   font-size: 30px;
+  transition: font-size 1.2s;
+}
+
+.content:hover .logo-small
+{
+  transition: font-size 1.2s;
+  font-size: 100px;
+}
+
+.navbtn
+{
+  background-color: inherit;
+  border: 0;
+}
+
+.content
+{
+  padding: 20px;
 }
 
 .square
