@@ -16,7 +16,7 @@
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
             <span class="glyphicon glyphicon-th-list listicon"></span>
           </button>
-          <span class="glyphicon glyphicon-globe logo">Nieuwscollectie</span>
+          <span class="glyphicon glyphicon-globe logo"><h1>Nieuwscollectie.nl</h1></span>
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
           <ul class="nav navbar-nav navbar-right">

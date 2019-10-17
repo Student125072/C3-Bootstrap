@@ -68,7 +68,7 @@ h4
   font-family: Betm;
 }
 
-.active
+.navbar .active
 {
   border-bottom: 2px solid black;
 }
@@ -81,8 +81,15 @@ h4
 .logo
 {
   color: black;
-  font-size: 40px;
+  font-size: 30px;
   padding-top: 5px;
+}
+
+.logo h1
+{
+  font-size: 20px;
+  display: inline;
+  font-family: Betm;
 }
 
 .navbar
