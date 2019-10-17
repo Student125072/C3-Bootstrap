@@ -2,9 +2,9 @@
 
   error_reporting(0);
 
-  $naaminput = $_POST['naamInput'];
-  $adresinput = $_POST['adresInput'];
-  $postcodeinput = $_POST['postcodeInput'];
+  $naam = $_POST['naam'];
+  $adres = $_POST['adres'];
+  $postcode = $_POST['postcode'];
 
   $class = "not-visible";
   $alert = "alert-danger";
@@ -12,8 +12,13 @@
 
   if (isset($_POST['submit'])) {
 
-    if (isset($naaminput)) {
+    if ($naam == "" || $adres == "" || $postcode == "") {
       $class = "is-visible";
+      $msg = "Alle velden dienen te worden ingevuld";
+    } else {
+      $alert = "alert-info";
+      $class = "is-visible";
+      $msg = "U bent aangemeld voor de nieuwsbrief.";
     }
 
   }
