@@ -112,7 +112,7 @@
                   <img src="img/brexit.jpg">
                 </div>
               </div> <!-- row -->
-        </div>
+        </div> <!-- well -->
       </div> <!-- content -->
     </div>
 
