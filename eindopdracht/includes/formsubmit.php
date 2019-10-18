@@ -10,7 +10,7 @@
   $alert = "alert-danger";
   $msg;
 
-  if (isset($_POST['jaSubmit'])) {
+  if (isset($_POST['submit'])) {
 
     if (empty($naam) || empty($adres) || empty($postcode)) {
       $class = "is-visible";

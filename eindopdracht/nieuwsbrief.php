@@ -22,7 +22,6 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="index.php">HOME</a></li>
             <li><a href="nieuws.php">NIEUWS</a></li>
-            <li><a href="#">BRONNEN</a></li>
             <li><a href="nieuwsbrief.php" class="active">NIEUWSBRIEF</a></li>
             <li><a href="opmerkingen.php">OPMERKINGEN</a></li>
           </ul>
@@ -63,7 +62,7 @@
             <small id="postcodeHelp" class="form-text text-muted">Wij delen uw informatie niet met anderen.</small>
           </div>
           <button type="button" id="submitBtn" name="confirmSubmit" class="btn btn-primary" data-toggle="modal" data-target="#confirmSubmit">Inschrijven</button>
-          <button type="submit" id="jaSubmit" name="jaSubmit" class="btn btn-primary hidden">Ja</button>
+          <button type="submit" name="submit" class="btn btn-primary hidden">Ja</button>
         </form>
       </div>
     </div>
@@ -82,7 +81,7 @@
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Nee</button>
-            <button class="btn btn-primary"><label for="jaSubmit">Ja</label></button>
+            <button type="button" class="btn btn-primary"><label for="submit">Ja</label></button>
           </div>
         </div>
       </div>

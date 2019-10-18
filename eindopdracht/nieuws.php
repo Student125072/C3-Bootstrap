@@ -22,7 +22,6 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="index.php">HOME</a></li>
             <li><a href="nieuws.php" class="active">NIEUWS</a></li>
-            <li><a href="#">BRONNEN</a></li>
             <li><a href="nieuwsbrief.php">NIEUWSBRIEF</a></li>
             <li><a href="opmerkingen.php">OPMERKINGEN</a></li>
           </ul>
@@ -34,14 +33,13 @@
     <div class="jumbotron text-center">
       <div class="container">
         <h2>het laatste nieuws</h2>
-        <p>kies een onderwerp</p>
       </div>
     </div>
 
-    <div id="subjects" class="container-fluid text-center">
+    <!-- <div id="subjects" class="container-fluid text-center">
       <div class="row">
         <div class="col-sm-4 global">
-          <button class="navbtn">
+          <button class="navbtn" onclick="location.href='globaal.php';">
             <div class="content">
               <span class="glyphicon glyphicon-globe logo-small"></span>
               <h4>GLOBAAL</h4>
@@ -50,7 +48,7 @@
           </button>
         </div>
         <div class="col-sm-4">
-          <button class="navbtn">
+          <button class="navbtn" onclick="location.href='regionaal.php';">
             <div class="content">
               <span class="glyphicon glyphicon-screenshot logo-small"></span>
               <h4>REGIONAAL</h4>
@@ -59,7 +57,7 @@
           </button>
         </div>
         <div class="col-sm-4 weather">
-          <button class="navbtn">
+          <button class="navbtn" onclick="location.href='weer.php';">
             <div class="content">
               <span class="glyphicon glyphicon-cloud logo-small"></span>
               <h4>WEER</h4>
@@ -68,7 +66,7 @@
           </button>
         </div>
       </div>
-    </div>
+    </div> -->
 
   </body>
 </html>
