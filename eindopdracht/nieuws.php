@@ -36,6 +36,39 @@
       </div>
     </div>
 
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-2">
+          <ul class="list-group">
+            <li class="list-group-item li-header">Categorieën</li>
+            <a href="#" class="list-group-item list-group-item-action li-link active">
+              Globaal<span class="badge badge-primary badge-pill">2</span>
+            </a> <!-- a -->
+            <a href="#" class="list-group-item list-group-item-action li-link">
+              Regionaal<span class="badge badge-primary badge-pill">1</span>
+            </a> <!-- a -->
+            <a href="#" class="list-group-item list-group-item-action li-link">
+              Weer<span class="badge badge-primary badge-pill">1</span>
+            </a> <!-- a -->
+          </ul>
+        </div>
+
+
+
+
+      <div class="col-sm-10">
+          <div class="well">
+            
+          </div>
+      </div>
+
+
+
+
+
+      </div> <!-- row -->
+    </div>
+
     <!-- <div id="subjects" class="container-fluid text-center">
       <div class="row">
         <div class="col-sm-4 global">

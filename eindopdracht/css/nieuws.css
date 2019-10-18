@@ -1,4 +1,18 @@
-.logo-small
+.li-header
+{
+  color: black;
+  font-weight: 200;
+  font-size: 15px;
+}
+
+.li-link
+{
+  font-size: 13px;
+  font-weight: 200;
+}
+
+
+/* .logo-small
 {
   color: black;
   font-size: 30px;
@@ -15,9 +29,9 @@
 {
   background-color: inherit;
   border: 0;
-}
+} */
 
-.col-sm-4
+/* .col-sm-4
 {
   padding: 0;
 }
@@ -37,4 +51,4 @@
 {
   padding-top: 10%;
   padding-bottom: 10%;
-}
+} */
