@@ -62,7 +62,7 @@
             <small id="postcodeHelp" class="form-text text-muted">Wij delen uw informatie niet met anderen.</small>
           </div>
           <button type="button" id="submitBtn" name="confirmSubmit" class="btn btn-primary" data-toggle="modal" data-target="#confirmSubmit">Inschrijven</button>
-          <button type="submit" name="submit" class="btn btn-primary hidden">Ja</button>
+          <button type="submit" name="submit" id="submit" class="btn btn-primary hidden">Ja</button>
         </form>
       </div>
     </div>
