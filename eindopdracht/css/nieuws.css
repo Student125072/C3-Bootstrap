@@ -11,6 +11,21 @@
   font-weight: 200;
 }
 
+.well .news h2, h3, p
+{
+  margin-left: 10%;
+}
+
+.well .news img
+{
+  height: auto;
+  width: 90%;
+}
+
+.hidden
+{
+  display: none;
+}
 
 /* .logo-small
 {

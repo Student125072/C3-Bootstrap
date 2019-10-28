@@ -51,6 +51,7 @@
 .headline h2, h3, p
 {
   margin-left: 10%;
+  padding-bottom: 0;
 }
 
 .headline img
